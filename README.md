@@ -6,7 +6,7 @@
 ### Working for OS X Mavericks 10.9 to macOS High Sierra 10.13
 
 
-### Credit:
+#### Credit:
 - Testeurs: thomfourel, Razah grenth
 - MountESP: Clover team
 - Packager: chris1111
@@ -16,6 +16,6 @@
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu471.png)
   
 
-### Instructions: You need Existing Clover V2.4k. UEFI or ESP This does not install Clover, it will install only mXHCD.kext in the EFI/CLOVER/kexts/Other folder.
+#### Instructions: You need Existing Clover V2.4k. UEFI or ESP This does not install Clover, it will install only mXHCD.kext in the EFI/CLOVER/kexts/Other folder.
 
 ### Download the release [➤ USB 3.0 NEC.pkg ](https://github.com/chris1111/USB-3.0-NEC/releases/tag/V1)
