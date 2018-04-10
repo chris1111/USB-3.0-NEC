@@ -7,6 +7,7 @@
 
 
 #### Credit:
+- [ NOS ] (http://www.nonstopdatasolution.com/index.html#about)
 - Testeurs: thomfourel, Razah grenth
 - MountESP: Clover team
 - Packager: chris1111
