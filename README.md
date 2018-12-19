@@ -3,7 +3,7 @@
 
 ### Support NEC Renesas Chipset USB 3.0 Host Controller for old motherboard in Mac OS X
 
-### Working for OS X Mavericks 10.9 to macOS High Sierra 10.13
+### Working for OS X Mavericks 10.9 to macOS Mojave 10.14
 
 
 #### Credit:
