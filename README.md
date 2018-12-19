@@ -19,7 +19,7 @@ Working and testing:
 
 
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu471.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen85.png)
   
 
 #### Instructions: You need Existing Clover V2.4k. UEFI or ESP This does not install Clover, it will install only mXHCD.kext in the EFI/CLOVER/kexts/Other folder.
