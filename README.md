@@ -8,9 +8,14 @@
 
 #### Credit:
 - [OYEN DIGITAL ] (https://oyendigital.com)
-- Testeurs: thomfourel, Razah grenth
+- Testeurs: thomfourel, Razah grenth, fotograf59
 - MountESP: Clover team
 - Packager: chris1111
+
+Working and testing:
+
+- Razah grenth [➤ MSI P67A-GD55 ](https://www.hackintosh-montreal.com/t7090-usb-3-0-port-nec-renesas-10-9-a-10-14#111138)
+- fotograf59 [➤ GA Z97X GAMING GT ](https://www.hackintosh-montreal.com/t7090-usb-3-0-port-nec-renesas-10-9-a-10-14#115763)
 
 
 
