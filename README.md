@@ -14,6 +14,7 @@
 
 Working and testing:
 
+- bigboigahoy [➤ ProBook 4530s ](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/issues/17#issuecomment-481940181)
 - Razah grenth [➤ MSI P67A-GD55 ](https://www.hackintosh-montreal.com/t7090-usb-3-0-port-nec-renesas-10-9-a-10-14#111138)
 - fotograf59 [➤ GA Z97X GAMING GT ](https://www.hackintosh-montreal.com/t7090-usb-3-0-port-nec-renesas-10-9-a-10-14#115763)
 
